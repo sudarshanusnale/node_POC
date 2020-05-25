@@ -39,7 +39,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ## Install / Download
 
-    $ git clone https://github.com/sudarshanusnale/nodePOC
+    $ git clone https://github.com/sudarshanusnale/node_POC
     $ cd nodePOC
 
 
